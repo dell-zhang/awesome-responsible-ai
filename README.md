@@ -18,8 +18,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [Google Cloud - Responsible AI](https://cloud.google.com/responsible-ai)
 - [Facebook AI - Responsible AI](https://ai.facebook.com/blog/facebooks-five-pillars-of-responsible-ai/)
 - [Microsoft - Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
-- [OpenAI]()
-- [ByteDance]()
+- [ByteDance AI Lab](https://ailab.bytedance.com/research)
 
 ### Academic
 - [Standford]
