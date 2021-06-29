@@ -1,5 +1,5 @@
-# awesome-responsible-ai
-Research in the area of Responsible AI (machine learning fairness etc.)
+# Awesome Responsible AI
+A curated list of resources for research in the area of Responsible AI (machine learning fairness etc.)
 
 ## Conferences
 
