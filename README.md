@@ -16,11 +16,12 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [Google DeepMind Ethics & Society](https://deepmind.com/about/ethics-and-society)
 - [Google AI - Responsible AI](https://ai.google/responsibilities/responsible-ai-practices/)
 - [Google Cloud - Responsible AI](https://cloud.google.com/responsible-ai)
-- [Facebook AI - Responsible AI](https://ai.facebook.com/blog/facebooks-five-pillars-of-responsible-ai/)
 - [Microsoft - Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
+- [Facebook AI - Responsible AI](https://ai.facebook.com/blog/facebooks-five-pillars-of-responsible-ai/)
 - [ByteDance AI Lab](https://ailab.bytedance.com/research)
 
 ### Academic
+- [Alan Turing Institute - Fairness, Transparency, Privacy](https://www.turing.ac.uk/research/interest-groups/fairness-transparency-privacy)
 - [Standford]
 - [UC Berkeley]
 
