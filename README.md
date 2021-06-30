@@ -8,7 +8,11 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [AIES](https://www.aies-conference.com/)
 
 ### General AI Conferences
-- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,DM)
+[AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,DM)
+- [WSDM-22](http://www.wsdm-conference.org/2022/)
+- [AAAI-22](https://aaai.org/Conferences/AAAI-22/)
+- [ICLR-22](https://iclr.cc/Conferences/2022/)
+- [WWW-22](https://www2022.thewebconf.org/)
 
 ## Research Groups
 
