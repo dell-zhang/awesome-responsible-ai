@@ -30,7 +30,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [Responsibly](https://docs.responsibly.ai/)
 
 ## Tutorials
-- [SIGIR-21 Tutorial: Tutorial on Fairness of Machine Learning in Recommender Systems](https://fairness-tutorial.github.io/)
+- [SIGIR-21 Tutorial on Fairness of Machine Learning in Recommender Systems](https://fairness-tutorial.github.io/)
 
 
 ## Books
