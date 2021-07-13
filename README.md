@@ -28,6 +28,8 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [Alan Turing Institute - Fairness, Transparency, Privacy](https://www.turing.ac.uk/research/interest-groups/fairness-transparency-privacy)
 - [Standford - Human-Centered AI - Human Impact](https://hai.stanford.edu/research/research-focus-areas/human-impact-research-mission)
 - [UC Berkeley - Human-Compatible AI](https://humancompatible.ai/research)
+- [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk/)
+- [China-UK Research Centre for AI Ethics and Governance](https://ai-ethics-and-governance.institute/)
 
 ## Code and Data
 - [Fairlearn](https://fairlearn.org/)
@@ -36,7 +38,6 @@ A curated list of resources for research in the area of Responsible AI (machine 
 
 ## Tutorials
 - [SIGIR-21 Tutorial on Fairness of Machine Learning in Recommender Systems](https://fairness-tutorial.github.io/)
-
 
 ## Books
 - [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
