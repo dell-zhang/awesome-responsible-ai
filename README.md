@@ -37,7 +37,11 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [ML-Fairness-Gym](https://github.com/google/ml-fairness-gym)
 
 ## Tutorials
-- [SIGIR-21 Tutorial on Fairness of Machine Learning in Recommender Systems](https://fairness-tutorial.github.io/)
+- [RecSys-20 Tutorial: Counteracting Bias and Increasing Fairness in Search and Recommender Systems](http://fate.infoseeking.org/resources/RecSys2020_tutorial.pdf)
+- [SIGIR-21 Tutorial: Fairness of Machine Learning in Recommender Systems](https://fairness-tutorial.github.io/)
+
+## Surveys
+- [A Survey on Bias and Fairness in Machine Learning](https://doi.org/10.1145/3457607)
 
 ## Books
 - [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
