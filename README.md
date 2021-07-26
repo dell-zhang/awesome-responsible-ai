@@ -7,6 +7,10 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [FAccT](https://facctconference.org/)
 - [AIES](https://www.aies-conference.com/)
 
+### Dedicated Workshops
+- [FAccTRec](https://facctrec.github.io/)
+- [FACTS-IR](https://fate-events.github.io/facts-ir/)
+
 ### General AI Conferences
 [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,DM)
 - [WSDM-22](http://www.wsdm-conference.org/2022/)
@@ -39,6 +43,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 ## Learning Materials
 
 ### Tutorials
+- [RecSys-19 Tutorial: Fairness and Discrimination in Recommendation and Retrieval](https://fair-ia.ekstrandom.net/recsys2019)
 - [RecSys-20 Tutorial: Counteracting Bias and Increasing Fairness in Search and Recommender Systems](http://fate.infoseeking.org/resources/RecSys2020_tutorial.pdf)
 - [SIGIR-21 Tutorial: Fairness of Machine Learning in Recommender Systems](https://fairness-tutorial.github.io/)
 - [AAAI-21 Tutorial: Dealing with Bias and Fairness in Building Data Science/ML/AI Systems](https://dssg.github.io/fairness_tutorial/)
