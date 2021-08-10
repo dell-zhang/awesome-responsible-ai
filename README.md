@@ -37,6 +37,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 
 ## Code and Data
 - [Fairlearn](https://fairlearn.org/)
+- [AI Fairness 360](https://aif360.mybluemix.net/)
 - [Responsibly](https://docs.responsibly.ai/)
 - [ML-Fairness-Gym](https://github.com/google/ml-fairness-gym)
 
