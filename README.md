@@ -14,6 +14,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 
 ### Surveys
 - [A Survey on Bias and Fairness in Machine Learning](https://doi.org/10.1145/3457607)
+- [Recommendation Fairness: From Static to Dynamic](https://arxiv.org/abs/2109.03150)
 
 ### Special-Issues
 - [SIGKDD Explorations Special Issue on Bias and Fairness in AI](https://kdd.org/explorations/view/june-2021-volume-23-issue-1)
