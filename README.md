@@ -43,12 +43,12 @@ A curated list of resources for research in the area of Responsible AI (machine 
 ## Research Groups
 
 ### Industrial
+- [ByteDance AI Lab](https://ailab.bytedance.com/research)
 - [DeepMind Ethics & Society](https://deepmind.com/about/ethics-and-society)
 - [Google AI - Responsible AI](https://ai.google/responsibilities/responsible-ai-practices/)
 - [Google Cloud - Responsible AI](https://cloud.google.com/responsible-ai)
 - [Microsoft - Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
 - [Facebook AI - Responsible AI](https://ai.facebook.com/blog/facebooks-five-pillars-of-responsible-ai/)
-- [ByteDance AI Lab](https://ailab.bytedance.com/research)
 
 ### Academic
 - [Alan Turing Institute - Fairness, Transparency, Privacy](https://www.turing.ac.uk/research/interest-groups/fairness-transparency-privacy)
@@ -62,4 +62,3 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [AI Fairness 360](https://aif360.mybluemix.net/) & [AI Exaplainability 360](https://aix360.mybluemix.net/)
 - [Responsibly](https://docs.responsibly.ai/)
 - [ML-Fairness-Gym](https://github.com/google/ml-fairness-gym)
-
