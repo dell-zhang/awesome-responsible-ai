@@ -43,7 +43,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 ## Research Groups
 
 ### Industrial
-- [ByteDance AI Lab](https://ailab.bytedance.com/research)
+- [ByteDance AI Lab - MLF](https://ailab.bytedance.com/research)
 - [DeepMind Ethics & Society](https://deepmind.com/about/ethics-and-society)
 - [Google AI - Responsible AI](https://ai.google/responsibilities/responsible-ai-practices/)
 - [Google Cloud - Responsible AI](https://cloud.google.com/responsible-ai)
@@ -52,6 +52,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 
 ### Academic
 - [Alan Turing Institute - Fairness, Transparency, Privacy](https://www.turing.ac.uk/research/interest-groups/fairness-transparency-privacy)
+- [TAILOR - European Research Network](https://tailor-network.eu/)
 - [Standford - Human-Centered AI - Human Impact](https://hai.stanford.edu/research/research-focus-areas/human-impact-research-mission)
 - [UC Berkeley - Human-Compatible AI](https://humancompatible.ai/research)
 - [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk/)
