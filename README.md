@@ -31,7 +31,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 ### Dedicated Workshops
 - [FAccTRec](https://facctrec.github.io/)
 - [FACTS-IR](https://fate-events.github.io/facts-ir/)
-- [Fairness and Bias in Information Retrieval](https://www.eventbrite.co.uk/e/fairness-and-bias-in-information-retrieval-tickets-129011102681#)
+- [Fairness & Bias in IR](https://www.eventbrite.co.uk/e/fairness-and-bias-in-information-retrieval-tickets-129011102681#)
 
 ### General AI Conferences
 [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,DM)
