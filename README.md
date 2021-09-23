@@ -5,7 +5,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 
 ### Reviews
 - [Trustworthy AI](https://cacm.acm.org/magazines/2021/10/255716-trustworthy-ai/fulltext)
-- [A Survey on Bias and Fairness in Machine Learning](https://doi.org/10.1145/3457607)
+- [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/abs/1908.09635)
 - [Recommendation Fairness: From Static to Dynamic](https://arxiv.org/abs/2109.03150)
 
 ### Tutorials
