@@ -6,9 +6,11 @@ A curated list of resources for research in the area of Responsible AI (machine 
 ### Reviews
 - [Trustworthy AI](https://cacm.acm.org/magazines/2021/10/255716-trustworthy-ai/fulltext)
 - [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/abs/1908.09635)
+- [Bias Issues and Solutions in Recommender System](https://github.com/jiawei-chen/RecDebiasing)
 - [Recommendation Fairness: From Static to Dynamic](https://arxiv.org/abs/2109.03150)
 
 ### Tutorials
+- [RecSys-21 Tutorial: Bias Issues and Solutions in Recommender System](https://github.com/jiawei-chen/RecDebiasing)
 - [SIGIR-21 Tutorial: Fairness of Machine Learning in Recommender Systems](https://fairness-tutorial.github.io/)
 - [KDD-20 Tutorial: Dealing with Bias and Fairness in Data Science Systems](https://dssg.github.io/fairness_tutorial/)
 - [RecSys-20 Tutorial: Counteracting Bias and Increasing Fairness in Search and Recommender Systems](http://fate.infoseeking.org/resources/RecSys2020_tutorial.pdf)
