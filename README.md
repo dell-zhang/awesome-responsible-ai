@@ -15,7 +15,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [KDD-20 Tutorial: Dealing with Bias and Fairness in Data Science Systems](https://dssg.github.io/fairness_tutorial/)
 - [RecSys-20 Tutorial: Counteracting Bias and Increasing Fairness in Search and Recommender Systems](http://fate.infoseeking.org/resources/RecSys2020_tutorial.pdf)
 - [RecSys-19 Tutorial: Fairness and Discrimination in Recommendation and Retrieval](https://fair-ia.ekstrandom.net/recsys2019)
-- [FAccT-21 Tutorial: Causal Fairness Analysis](https://fairness.causalai.net/) [Video](https://www.youtube.com/watch?v=2xezFQvpJc8)
+- [FAccT-21 Tutorial: Causal Fairness Analysis](https://fairness.causalai.net/) [(Video)](https://www.youtube.com/watch?v=2xezFQvpJc8)
 
 ### Books
 - [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
