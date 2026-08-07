@@ -68,3 +68,12 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [AI Fairness 360](https://aif360.mybluemix.net/) & [AI Exaplainability 360](https://aix360.mybluemix.net/)
 - [Responsibly](https://docs.responsibly.ai/)
 - [ML-Fairness-Gym](https://github.com/google/ml-fairness-gym)
+
+## Star History
+
+<a href="https://github.com/dell-zhang/awesome-responsible-ai/stargazers"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/star-history-dark.svg">
+  <img alt="Star history chart of dell-zhang/awesome-responsible-ai" src="assets/star-history-light.svg">
+</picture></a>
+
+<sub>Regenerated weekly by [a scheduled workflow](.github/workflows/star-history.yml).</sub>

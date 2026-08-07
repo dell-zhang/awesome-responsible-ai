@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12">
+<title>Cumulative GitHub stars over time: 2 as of 2026-08-07</title>
+<line x1="52" y1="174.0" x2="636" y2="174.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="44" y="178.0" text-anchor="end" fill="#898781" style="font-variant-numeric: tabular-nums">1</text>
+<line x1="52" y1="28.0" x2="636" y2="28.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="44" y="32.0" text-anchor="end" fill="#898781" style="font-variant-numeric: tabular-nums">2</text>
+<line x1="52" y1="320.0" x2="636" y2="320.0" stroke="#383835" stroke-width="1"/>
+<text x="54.1" y="340" text-anchor="middle" fill="#898781">Aug 2021</text>
+<text x="159.8" y="340" text-anchor="middle" fill="#898781">Jun 2022</text>
+<text x="265.4" y="340" text-anchor="middle" fill="#898781">Apr 2023</text>
+<text x="371.8" y="340" text-anchor="middle" fill="#898781">Feb 2024</text>
+<text x="477.5" y="340" text-anchor="middle" fill="#898781">Dec 2024</text>
+<text x="583.2" y="340" text-anchor="middle" fill="#898781">Oct 2025</text>
+<path d="M52.0,174.0 L636.0,28.0" fill="none" stroke="#3987e5" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="636.0" cy="28.0" r="4" fill="#3987e5"/>
+<text x="646.0" y="32.0" fill="#ffffff" font-weight="600" font-size="13">2 ★</text>
+<text x="636" y="354" text-anchor="end" fill="#898781" font-size="11">as of 2026-08-07</text>
+</svg>
