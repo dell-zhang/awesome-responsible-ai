@@ -68,6 +68,7 @@ A curated list of resources for research in the area of Responsible AI (machine 
 - [AI Fairness 360](https://aif360.mybluemix.net/) & [AI Exaplainability 360](https://aix360.mybluemix.net/)
 - [Responsibly](https://docs.responsibly.ai/)
 - [ML-Fairness-Gym](https://github.com/google/ml-fairness-gym)
+- [Fair Code](https://github.com/yakew7/Fair-Code)
 
 <!-- ## Star History
 
